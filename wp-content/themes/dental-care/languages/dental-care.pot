@@ -1,0 +1,3351 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-12-01 22:19-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: 404.php:33
+msgid "404"
+msgstr ""
+
+#: 404.php:42
+msgid "Back to Home"
+msgstr ""
+
+#: comments.php:29
+#, php-format
+msgctxt "comments title"
+msgid "1 comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s comments on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:35 comments.php:52
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:36 comments.php:53
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:37 comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:75
+msgid "Name*"
+msgstr ""
+
+#: comments.php:80
+msgid "Email*"
+msgstr ""
+
+#: comments.php:84 inc/parts/author_box_archive_part.php:31
+#: inc/parts/author_box_part.php:31
+msgid "Website"
+msgstr ""
+
+#: comments.php:88
+msgid "Comment"
+msgstr ""
+
+#: functions.php:84
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:85
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:86
+msgid "Mobile Menu"
+msgstr ""
+
+#: functions.php:87
+msgid "Top Header Menu"
+msgstr ""
+
+#: functions.php:88
+msgid "One Page Menu"
+msgstr ""
+
+#: functions.php:136
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions.php:146
+msgid "Shop Sidebar"
+msgstr ""
+
+#: functions.php:148
+msgid "Appears on Shop page."
+msgstr ""
+
+#: functions.php:156
+msgid "Above Shop Sidebar"
+msgstr ""
+
+#: functions.php:158
+msgid "Appears above Shop page."
+msgstr ""
+
+#: functions.php:166
+msgid "Footer Sidebar 1"
+msgstr ""
+
+#: functions.php:168 functions.php:182 functions.php:194 functions.php:204
+#: functions.php:217 functions.php:227 functions.php:236
+msgid "Appears in the footer area"
+msgstr ""
+
+#: functions.php:180 functions.php:192 functions.php:215
+msgid "Footer Sidebar 2"
+msgstr ""
+
+#: functions.php:202 functions.php:225
+msgid "Footer Sidebar 3"
+msgstr ""
+
+#: functions.php:234
+msgid "Footer Sidebar 4"
+msgstr ""
+
+#: functions.php:288
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:292
+msgctxt "Hind font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:434
+msgid "Shop"
+msgstr ""
+
+#: functions.php:441
+msgid "Facebook Profile URL"
+msgstr ""
+
+#: functions.php:442
+msgid "Twitter Profile URL"
+msgstr ""
+
+#: functions.php:443
+msgid "Google Plus Profile URL"
+msgstr ""
+
+#: functions.php:444
+msgid "Linkedin Profile URL"
+msgstr ""
+
+#: functions.php:445
+msgid "Instagram Profile URL"
+msgstr ""
+
+#: functions.php:446
+msgid "Dribbble URL"
+msgstr ""
+
+#: functions.php:447
+msgid "Github URL"
+msgstr ""
+
+#: functions.php:448
+msgid "Youtube URL"
+msgstr ""
+
+#: functions.php:449
+msgid "Tumblr URL"
+msgstr ""
+
+#: functions.php:450
+msgid "Pinterest URL"
+msgstr ""
+
+#: functions.php:451
+msgid "Foursquare URL"
+msgstr ""
+
+#: functions.php:452
+msgid "Skype URL"
+msgstr ""
+
+#: functions.php:453
+msgid "Soundcloud URL"
+msgstr ""
+
+#: functions.php:454
+msgid "Flickr URL"
+msgstr ""
+
+#: functions.php:455
+msgid "Vimeo URL"
+msgstr ""
+
+#: functions.php:497
+msgid "Search for:"
+msgstr ""
+
+#: functions.php:498
+msgid "Search …"
+msgstr ""
+
+#: functions.php:616
+msgid "Top Header Left Column 1 Detail"
+msgstr ""
+
+#: functions.php:627
+msgid "Enter contact detail"
+msgstr ""
+
+#: functions.php:638
+msgid "Video Link"
+msgstr ""
+
+#: functions.php:646
+msgid "Enter YouTube/Vimeo Link"
+msgstr ""
+
+#: functions.php:679
+msgid "Import/Export Options"
+msgstr ""
+
+#: functions.php:686 functions.php:698
+msgid "Theme Options"
+msgstr ""
+
+#: functions.php:725
+msgid ""
+"Only after you've imported the Settings should you try and update your Theme "
+"Options."
+msgstr ""
+
+#: functions.php:726
+msgid ""
+"To import your Theme Options copy and paste what appears to be a random "
+"string of alpha numeric characters into this textarea and press the \"Import "
+"Theme Options\" button."
+msgstr ""
+
+#: functions.php:727
+msgid "Import Theme Options"
+msgstr ""
+
+#: functions.php:742
+msgid ""
+"Export your Theme Options data by highlighting this text and doing a copy/"
+"paste into a blank .txt file. Then paste the saved text in the Import Theme "
+"options field of another site."
+msgstr ""
+
+#: functions.php:769
+msgid "Choose One"
+msgstr ""
+
+#: functions.php:774
+msgid "No Sliders Found. Try creating one in the Revolution Slider admin area."
+msgstr ""
+
+#: functions.php:778
+msgid "Revolution Slider is not Activated or Installed"
+msgstr ""
+
+#: functions.php:824
+msgid "No Categories Found"
+msgstr ""
+
+#: functions.php:870
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:870
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:885
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:892
+msgid " Reply"
+msgstr ""
+
+#: functions.php:898 inc/helpers/breadcrumbs.php:1135
+#: inc/helpers/breadcrumbs.php:1171 inc/helpers/breadcrumbs.php:1188
+#: inc/helpers/breadcrumbs.php:1219 template-parts/content-gallery.php:109
+#: template-parts/content-video.php:107 template-parts/content.php:92
+msgid "Edit"
+msgstr ""
+
+#: header.php:58
+msgid "Skip to content"
+msgstr ""
+
+#: search.php:37
+msgid "Displaying "
+msgstr ""
+
+#: search.php:39
+#, php-format
+msgid " results for: %s"
+msgstr ""
+
+#: search.php:66 template-blog-grid.php:61 template-blog.php:46
+msgid "Posts navigation"
+msgstr ""
+
+#: single-gallery.php:278 dentalcare-cpt/shortcodes/single-gallery.php:235
+msgid "All Images"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/blog-carousel.php:7
+msgid "Blog Carousel"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/blog-carousel.php:10
+#: dentalcare-cpt/shortcodes/blog-grid.php:10
+#: dentalcare-cpt/shortcodes/brands.php:10
+#: dentalcare-cpt/shortcodes/counter.php:10
+#: dentalcare-cpt/shortcodes/gallery-grid.php:10
+#: dentalcare-cpt/shortcodes/icon-box.php:10
+#: dentalcare-cpt/shortcodes/info-icon.php:10
+#: dentalcare-cpt/shortcodes/opening-hours.php:10
+#: dentalcare-cpt/shortcodes/price-list.php:11
+#: dentalcare-cpt/shortcodes/product-carousel.php:10
+#: dentalcare-cpt/shortcodes/services.php:34
+#: dentalcare-cpt/shortcodes/single-gallery.php:26
+#: dentalcare-cpt/shortcodes/team-members.php:10
+#: dentalcare-cpt/shortcodes/testimonials.php:11
+msgid "Dental Care"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/blog-carousel.php:16
+#: dentalcare-cpt/shortcodes/blog-grid.php:16
+#: dentalcare-cpt/shortcodes/brands.php:16
+#: dentalcare-cpt/shortcodes/gallery-grid.php:16
+#: dentalcare-cpt/shortcodes/icon-box.php:96
+#: dentalcare-cpt/shortcodes/icon-box.php:147
+#: dentalcare-cpt/shortcodes/info-icon.php:96
+#: dentalcare-cpt/shortcodes/product-carousel.php:16
+#: dentalcare-cpt/shortcodes/services.php:40
+#: dentalcare-cpt/shortcodes/single-gallery.php:32
+#: dentalcare-cpt/shortcodes/team-members.php:16
+#: dentalcare-cpt/shortcodes/testimonials.php:17
+msgid "Title"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/blog-carousel.php:18
+#: dentalcare-cpt/shortcodes/blog-grid.php:18
+#: dentalcare-cpt/shortcodes/brands.php:18
+#: dentalcare-cpt/shortcodes/gallery-grid.php:18
+#: dentalcare-cpt/shortcodes/product-carousel.php:18
+#: dentalcare-cpt/shortcodes/services.php:42
+#: dentalcare-cpt/shortcodes/single-gallery.php:34
+#: dentalcare-cpt/shortcodes/team-members.php:18
+#: dentalcare-cpt/shortcodes/testimonials.php:19
+msgid "Title text Here. Leave blank if no title is needed."
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/blog-carousel.php:24
+#: dentalcare-cpt/shortcodes/blog-grid.php:24
+#: dentalcare-cpt/shortcodes/brands.php:32
+#: dentalcare-cpt/shortcodes/services.php:57
+#: dentalcare-cpt/shortcodes/team-members.php:47
+#: dentalcare-cpt/shortcodes/testimonials.php:33
+msgid "Order by title"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/blog-carousel.php:26
+#: dentalcare-cpt/shortcodes/blog-grid.php:26
+#: dentalcare-cpt/shortcodes/brands.php:34
+#: dentalcare-cpt/shortcodes/services.php:59
+#: dentalcare-cpt/shortcodes/team-members.php:49
+#: dentalcare-cpt/shortcodes/testimonials.php:35
+msgid "Choose if to order items"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/blog-carousel.php:37
+#: dentalcare-cpt/shortcodes/brands.php:45
+#: dentalcare-cpt/shortcodes/product-carousel.php:32
+#: dentalcare-cpt/shortcodes/services.php:113
+#: dentalcare-cpt/shortcodes/team-members.php:107
+#: dentalcare-cpt/shortcodes/testimonials.php:25
+msgid "Carousel Speed"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/blog-carousel.php:39
+#: dentalcare-cpt/shortcodes/brands.php:47
+#: dentalcare-cpt/shortcodes/product-carousel.php:34
+#: dentalcare-cpt/shortcodes/services.php:115
+#: dentalcare-cpt/shortcodes/team-members.php:109
+#: dentalcare-cpt/shortcodes/testimonials.php:27
+msgid "Enter the number for the carousel speed. (Default: 5000)"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/blog-carousel.php:45
+#: dentalcare-cpt/shortcodes/brands.php:53
+#: dentalcare-cpt/shortcodes/product-carousel.php:40
+#: dentalcare-cpt/shortcodes/services.php:121
+#: dentalcare-cpt/shortcodes/team-members.php:115
+#: dentalcare-cpt/shortcodes/testimonials.php:46
+msgid "Number of carousel items"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/blog-carousel.php:47
+msgid "Enter the number of blog posts columns to display in carousel."
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/blog-carousel.php:53
+#: dentalcare-cpt/shortcodes/brands.php:61
+#: dentalcare-cpt/shortcodes/product-carousel.php:48
+#: dentalcare-cpt/shortcodes/services.php:129
+#: dentalcare-cpt/shortcodes/team-members.php:123
+#: dentalcare-cpt/shortcodes/testimonials.php:54
+msgid "Enable Arrows"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/blog-carousel.php:55
+#: dentalcare-cpt/shortcodes/brands.php:63
+#: dentalcare-cpt/shortcodes/product-carousel.php:50
+#: dentalcare-cpt/shortcodes/services.php:131
+#: dentalcare-cpt/shortcodes/team-members.php:125
+#: dentalcare-cpt/shortcodes/testimonials.php:56
+msgid "Choose to enable or disable arrows on carousel."
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/blog-grid.php:7
+msgid "Blog Grid"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/blog-grid.php:37
+msgid "Number of grid items"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/blog-grid.php:39
+msgid "Enter the number of blog posts to display. -1 to display all posts."
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/blog-grid.php:173
+#: inc/helpers/template-tags.php:48 template-parts/content-gallery.php:62
+#: template-parts/content-single.php:68 template-parts/content-video.php:60
+#: template-parts/content.php:45
+msgid ", "
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/brands.php:7
+msgid "Brands"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/brands.php:24
+#: dentalcare-cpt/shortcodes/product-carousel.php:24
+#: dentalcare-cpt/shortcodes/services.php:105
+#: dentalcare-cpt/shortcodes/team-members.php:99
+msgid "Number of items"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/brands.php:26
+msgid "Enter the number of brands to display. Enter -1 to display all items."
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/brands.php:55
+msgid "Enter the number of brands columns to display in carousel."
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/counter.php:7
+msgid "Counter"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/counter.php:16
+#: dentalcare-cpt/shortcodes/icon-box.php:16
+#: dentalcare-cpt/shortcodes/info-icon.php:16
+msgid "Dental Icon"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/counter.php:18
+#: dentalcare-cpt/shortcodes/icon-box.php:18
+#: dentalcare-cpt/shortcodes/info-icon.php:18
+msgid "Choose a dental icon. See the Icon section of the theme documentation."
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/counter.php:52
+#: dentalcare-cpt/shortcodes/icon-box.php:52
+#: dentalcare-cpt/shortcodes/info-icon.php:52
+msgid "Icon Class"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/counter.php:54
+#: dentalcare-cpt/shortcodes/icon-box.php:54
+#: dentalcare-cpt/shortcodes/info-icon.php:54
+#: dentalcare-cpt/shortcodes/opening-hours.php:130
+#: dentalcare-cpt/shortcodes/price-list.php:61
+msgid ""
+"Enter an icon class. Also supports Font Awesome e.g. fa fa-check., See icons"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/counter.php:60
+#: dentalcare-cpt/shortcodes/icon-box.php:60
+#: dentalcare-cpt/shortcodes/info-icon.php:60
+#: dentalcare-cpt/shortcodes/opening-hours.php:137
+#: dentalcare-cpt/shortcodes/price-list.php:68
+msgid "Icon Font Size"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/counter.php:66
+#: dentalcare-cpt/shortcodes/icon-box.php:66
+#: dentalcare-cpt/shortcodes/info-icon.php:66
+msgid "Enter icon font size."
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/counter.php:71
+#: dentalcare-cpt/shortcodes/icon-box.php:71
+#: dentalcare-cpt/shortcodes/info-icon.php:71
+#: dentalcare-cpt/shortcodes/opening-hours.php:148
+#: dentalcare-cpt/shortcodes/price-list.php:79
+msgid "Icon Color"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/counter.php:73
+#: dentalcare-cpt/shortcodes/icon-box.php:73
+#: dentalcare-cpt/shortcodes/info-icon.php:73
+msgid "Choose icon color"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/counter.php:79
+#: dentalcare-cpt/shortcodes/info-icon.php:79
+msgid "Icon Position"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/counter.php:81
+#: dentalcare-cpt/shortcodes/info-icon.php:81
+msgid "Choose an icon position."
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/counter.php:88
+msgid "Number"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/counter.php:90
+msgid "Enter a number to count up to."
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/counter.php:97
+#: dentalcare-cpt/shortcodes/icon-box.php:105
+#: dentalcare-cpt/shortcodes/icon-box.php:156
+#: dentalcare-cpt/shortcodes/info-icon.php:105
+#: inc/helpers/edit_custom_walker.php:169 inc/helpers/meta-boxes.php:239
+msgid "Description"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/counter.php:99
+#: dentalcare-cpt/shortcodes/icon-box.php:107
+#: dentalcare-cpt/shortcodes/icon-box.php:158
+#: dentalcare-cpt/shortcodes/info-icon.php:107
+msgid "Enter a description"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/counter.php:106
+msgid "Number Font Size"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/counter.php:111
+#: dentalcare-cpt/shortcodes/icon-box.php:211
+#: dentalcare-cpt/shortcodes/info-icon.php:119
+#: dentalcare-cpt/shortcodes/opening-hours.php:187
+#: dentalcare-cpt/shortcodes/price-list.php:110
+msgid "Enter title font size."
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/counter.php:117
+msgid "Number Color"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/counter.php:119
+msgid "Choose a color for the number."
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/counter.php:126
+#: dentalcare-cpt/shortcodes/icon-box.php:218
+#: dentalcare-cpt/shortcodes/info-icon.php:134
+msgid "Description Font Size"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/counter.php:131
+#: dentalcare-cpt/shortcodes/icon-box.php:223
+#: dentalcare-cpt/shortcodes/info-icon.php:139
+#: dentalcare-cpt/shortcodes/price-list.php:130
+msgid "Enter description font size."
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/counter.php:137
+#: dentalcare-cpt/shortcodes/info-icon.php:145
+msgid "Description Color"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/counter.php:139
+#: dentalcare-cpt/shortcodes/info-icon.php:147
+msgid "Choose a color for the description."
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/gallery-grid.php:7
+msgid "Gallery Grid"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/gallery-grid.php:24
+msgid "Number of Columns"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/gallery-grid.php:26
+msgid "Choose the number of columns to display"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/gallery-grid.php:66
+msgid "All Galleries"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/icon-box.php:7
+msgid "Icon Box"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/icon-box.php:79
+msgid "Enable Flip Effect"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/icon-box.php:81
+msgid "Choose to enable icon box flip effect."
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/icon-box.php:87
+#: dentalcare-cpt/shortcodes/info-icon.php:87
+msgid "Link"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/icon-box.php:90
+msgid "Choose a link for the icon box."
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/icon-box.php:98
+#: dentalcare-cpt/shortcodes/icon-box.php:149
+#: dentalcare-cpt/shortcodes/info-icon.php:98
+msgid "Enter a title"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/icon-box.php:113
+#: dentalcare-cpt/shortcodes/icon-box.php:164
+#: dentalcare-cpt/shortcodes/opening-hours.php:173
+msgid "Text Color"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/icon-box.php:115
+#: dentalcare-cpt/shortcodes/icon-box.php:166
+msgid "Choose a color for the text."
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/icon-box.php:121
+#: dentalcare-cpt/shortcodes/icon-box.php:172
+#: dentalcare-cpt/shortcodes/opening-hours.php:156
+#: dentalcare-cpt/shortcodes/price-list.php:87
+msgid "Background Color"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/icon-box.php:123
+#: dentalcare-cpt/shortcodes/icon-box.php:174
+#: dentalcare-cpt/shortcodes/opening-hours.php:158
+#: dentalcare-cpt/shortcodes/price-list.php:89
+msgid "Choose a background color or combine it with an image as an overlay."
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/icon-box.php:130
+#: dentalcare-cpt/shortcodes/icon-box.php:181
+#: dentalcare-cpt/shortcodes/opening-hours.php:165
+#: dentalcare-cpt/shortcodes/price-list.php:96
+msgid "Background Image"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/icon-box.php:132
+#: dentalcare-cpt/shortcodes/icon-box.php:183
+#: dentalcare-cpt/shortcodes/opening-hours.php:167
+#: dentalcare-cpt/shortcodes/price-list.php:98
+msgid "Choose an image for the background."
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/icon-box.php:138
+msgid "Background Hover Color"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/icon-box.php:140
+msgid "Choose a background hover color."
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/icon-box.php:189
+msgid "Button Text Color"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/icon-box.php:191
+msgid "Choose a color for the button text."
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/icon-box.php:197
+msgid "Button Background Color"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/icon-box.php:199
+msgid "Choose a background color for the button."
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/icon-box.php:206
+#: dentalcare-cpt/shortcodes/info-icon.php:114
+#: dentalcare-cpt/shortcodes/opening-hours.php:182
+msgid "Title Font Size"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/icon-box.php:444
+msgid "Read More"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/info-icon.php:7
+msgid "Info Icon"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/info-icon.php:90
+msgid "Choose a link for the info icon."
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/info-icon.php:125
+msgid "Title Color"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/info-icon.php:127
+msgid "Choose a color for the title."
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/opening-hours.php:7
+#: inc/helpers/theme-options.php:425 inc/helpers/theme-options.php:466
+#: inc/helpers/theme-options.php:507 inc/helpers/theme-options.php:956
+#: inc/helpers/theme-options.php:996
+msgid "Opening Hours"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/opening-hours.php:16
+msgid "Monday Title"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/opening-hours.php:18
+msgid "Enter the title text for Monday"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/opening-hours.php:24
+msgid "Monday Text"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/opening-hours.php:26
+msgid "Enter the opening hours for Monday"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/opening-hours.php:32
+msgid "Tuesday Title"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/opening-hours.php:34
+msgid "Enter the title text for Tuesday"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/opening-hours.php:40
+msgid "Tuesday Text"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/opening-hours.php:42
+msgid "Enter the opening hours for Tuesday"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/opening-hours.php:48
+msgid "Wednesday Title"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/opening-hours.php:50
+msgid "Enter the title text for Wednesday"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/opening-hours.php:56
+msgid "Wednesday Text"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/opening-hours.php:58
+msgid "Enter the opening hours for Wednesday"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/opening-hours.php:64
+msgid "Thursday Title"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/opening-hours.php:66
+msgid "Enter the title text for Thursday"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/opening-hours.php:72
+msgid "Thursday Text"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/opening-hours.php:74
+msgid "Enter the opening hours for Thursday"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/opening-hours.php:80
+msgid "Friday Title"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/opening-hours.php:82
+msgid "Enter the title text for Friday"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/opening-hours.php:88
+msgid "Friday Text"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/opening-hours.php:90
+msgid "Enter the opening hours for Friday"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/opening-hours.php:96
+msgid "Saturday Title"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/opening-hours.php:98
+msgid "Enter the title text for Saturday"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/opening-hours.php:104
+msgid "Saturday Text"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/opening-hours.php:106
+msgid "Enter the opening hours for Saturday"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/opening-hours.php:112
+msgid "Sunday Title"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/opening-hours.php:114
+msgid "Enter the title text for Sunday"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/opening-hours.php:120
+msgid "Sunday Text"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/opening-hours.php:122
+msgid "Enter the opening hours for Sunday"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/opening-hours.php:128
+msgid "Icon"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/opening-hours.php:142
+#: dentalcare-cpt/shortcodes/price-list.php:73
+msgid "Enter an icon font size."
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/opening-hours.php:150
+#: dentalcare-cpt/shortcodes/price-list.php:81
+msgid "Choose an icon color color."
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/opening-hours.php:175
+msgid "Choose a text color."
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/opening-hours.php:194
+msgid "Opening Hours Font Size"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/opening-hours.php:199
+msgid "Enter opening hours font size."
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/price-list.php:7
+msgid "Price List"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/price-list.php:15
+msgid "Item Price Settings"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/price-list.php:20
+msgid "Routine Dental Exam"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/price-list.php:31
+msgid "Item Title"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/price-list.php:34
+msgid "Enter the title text for item"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/price-list.php:40
+msgid "Item Description"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/price-list.php:42
+msgid "Enter the description for the item"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/price-list.php:48
+msgid "Item Price"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/price-list.php:50
+msgid "Enter the price for item"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/price-list.php:59
+msgid "List Icon"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/price-list.php:105
+msgid "Price Title Font Size"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/price-list.php:116
+msgid "Price Title Color"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/price-list.php:118
+msgid "Choose a title color."
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/price-list.php:125
+msgid "Price Description Font Size"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/price-list.php:136
+msgid "Price Description Color"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/price-list.php:138
+msgid "Choose a description color."
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/price-list.php:145
+msgid "Price Font Size"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/price-list.php:150
+msgid "Enter price font size."
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/price-list.php:156
+msgid "Price Color"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/price-list.php:158
+msgid "Choose a price color."
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/product-carousel.php:7
+msgid "Product Carousel"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/product-carousel.php:26
+msgid "Enter the number of products to display. Enter -1 to display all items."
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/product-carousel.php:42
+msgid "Enter the number of products columns to display in carousel."
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/product-carousel.php:62
+msgid "Slider Type"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/product-carousel.php:64
+msgid "Choose to display either Recent or Featured products"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/services.php:31
+msgid "Services"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/services.php:48
+msgid "Service Display Type"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/services.php:50
+msgid "Choose a service type."
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/services.php:70
+msgid "Enable services links"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/services.php:72
+msgid "Choose to enable services links."
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/services.php:83
+msgid "Filter services by category"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/services.php:85
+msgid "Choose to filter services by category."
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/services.php:96
+msgid "Service Category"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/services.php:98
+msgid "Choose a service category."
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/services.php:107
+msgid "Enter the number of services to display. Enter -1 to display all items."
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/services.php:123
+msgid "Enter the number of services columns to display in carousel."
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/single-gallery.php:23
+msgid "Single Gallery"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/single-gallery.php:40
+msgid "Select Gallery"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/single-gallery.php:42
+msgid "Choose a gallery."
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/team-members.php:7
+msgid "Team Members"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/team-members.php:24
+msgid "Image Width"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/team-members.php:31
+msgid "Image Height"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/team-members.php:38
+msgid "Team Display Type"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/team-members.php:40
+msgid "Choose a team type."
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/team-members.php:60
+msgid "Enable Social "
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/team-members.php:62
+msgid "Choose to enable or disable team member social links."
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/team-members.php:73
+msgid "Enable Team Links "
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/team-members.php:75
+msgid "Choose to enable or disable team member links."
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/team-members.php:86
+msgid "Enable Detail Overlay "
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/team-members.php:88
+msgid "Choose to enable or disable the details overlay."
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/team-members.php:101
+msgid ""
+"Enter the number of team members to display. Enter -1 to display all items."
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/team-members.php:117
+msgid "Enter the number of team members columns to display in carousel."
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/testimonials.php:8
+msgid "Testimonials"
+msgstr ""
+
+#: dentalcare-cpt/shortcodes/testimonials.php:48
+msgid "Enter the number of testimonials columns to display in carousel."
+msgstr ""
+
+#: inc/helpers/breadcrumbs.php:178
+msgid "Browse:"
+msgstr ""
+
+#: inc/helpers/breadcrumbs.php:179
+msgid "Home"
+msgstr ""
+
+#: inc/helpers/breadcrumbs.php:180
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/helpers/breadcrumbs.php:181
+msgid "Archives"
+msgstr ""
+
+#: inc/helpers/breadcrumbs.php:183
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: inc/helpers/breadcrumbs.php:185
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/helpers/breadcrumbs.php:187
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: inc/helpers/breadcrumbs.php:189
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: inc/helpers/breadcrumbs.php:716
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: inc/helpers/breadcrumbs.php:733
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: inc/helpers/breadcrumbs.php:750
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: inc/helpers/breadcrumbs.php:766 inc/helpers/breadcrumbs.php:795
+#: inc/helpers/breadcrumbs.php:822 inc/helpers/breadcrumbs.php:849
+#: inc/helpers/breadcrumbs.php:1036
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/helpers/breadcrumbs.php:767 inc/helpers/breadcrumbs.php:823
+#: inc/helpers/breadcrumbs.php:1040
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: inc/helpers/breadcrumbs.php:768 inc/helpers/breadcrumbs.php:1044
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: inc/helpers/breadcrumbs.php:796
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: inc/helpers/breadcrumbs.php:1163
+msgid "Split"
+msgstr ""
+
+#: inc/helpers/breadcrumbs.php:1167
+msgid "Merge"
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:334
+#: inc/helpers/register-plugins.php:151
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:335
+#: inc/helpers/register-plugins.php:152
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:393
+#: inc/helpers/class-tgm-plugin-activation.php:912
+#: inc/helpers/class-tgm-plugin-activation.php:2618
+#: inc/helpers/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:394
+#: inc/helpers/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:395
+#: inc/helpers/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:1019
+#: inc/helpers/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:1206
+#: inc/helpers/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:3594
+#: inc/helpers/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:3594
+#: inc/helpers/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/helpers/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/helpers/demo-import-config.php:14 inc/helpers/demo-import-config.php:21
+#: inc/helpers/demo-import-config.php:28
+msgid ""
+"After you import this demo, you will have to setup the slider separately."
+msgstr ""
+
+#: inc/helpers/demo-import-config.php:77
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/helpers/demo-import-config.php:78
+msgid "Dental Care Demo Data Import"
+msgstr ""
+
+#: inc/helpers/edit_custom_walker.php:78
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: inc/helpers/edit_custom_walker.php:82
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: inc/helpers/edit_custom_walker.php:106
+msgid "Move up"
+msgstr ""
+
+#: inc/helpers/edit_custom_walker.php:119
+msgid "Move down"
+msgstr ""
+
+#: inc/helpers/edit_custom_walker.php:121
+#: inc/helpers/edit_custom_walker.php:123
+msgid "Edit Menu Item"
+msgstr ""
+
+#: inc/helpers/edit_custom_walker.php:132
+msgid "URL"
+msgstr ""
+
+#: inc/helpers/edit_custom_walker.php:139
+msgid "Navigation Label"
+msgstr ""
+
+#: inc/helpers/edit_custom_walker.php:145
+msgid "Title Attribute"
+msgstr ""
+
+#: inc/helpers/edit_custom_walker.php:152
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: inc/helpers/edit_custom_walker.php:157
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: inc/helpers/edit_custom_walker.php:163
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: inc/helpers/edit_custom_walker.php:171
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: inc/helpers/edit_custom_walker.php:179
+msgid "Icon class (e.g. fa fa-check)"
+msgstr ""
+
+#: inc/helpers/edit_custom_walker.php:180
+msgid "Click here for more icons"
+msgstr ""
+
+#: inc/helpers/edit_custom_walker.php:188
+msgid "Mega Menu Columns (Select for Parent menu items only.)"
+msgstr ""
+
+#: inc/helpers/edit_custom_walker.php:191
+msgid "Select Number of Columns"
+msgstr ""
+
+#: inc/helpers/edit_custom_walker.php:193 inc/helpers/theme-options.php:1186
+msgid "One Column"
+msgstr ""
+
+#: inc/helpers/edit_custom_walker.php:194
+msgid "Two Columns"
+msgstr ""
+
+#: inc/helpers/edit_custom_walker.php:195
+msgid "Three Columns"
+msgstr ""
+
+#: inc/helpers/edit_custom_walker.php:196
+msgid "Four Columns"
+msgstr ""
+
+#: inc/helpers/edit_custom_walker.php:197
+msgid "Five Columns"
+msgstr ""
+
+#: inc/helpers/edit_custom_walker.php:198
+msgid "Six Columns"
+msgstr ""
+
+#: inc/helpers/edit_custom_walker.php:206
+msgid "Hide Navigation Title"
+msgstr ""
+
+#: inc/helpers/edit_custom_walker.php:209
+msgid "Choose Yes/No to Hide Menu Title"
+msgstr ""
+
+#: inc/helpers/edit_custom_walker.php:211
+msgid "Yes"
+msgstr ""
+
+#: inc/helpers/edit_custom_walker.php:212
+msgid "No"
+msgstr ""
+
+#: inc/helpers/edit_custom_walker.php:221
+msgid "Textarea may be used for raw HTML."
+msgstr ""
+
+#: inc/helpers/edit_custom_walker.php:233
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: inc/helpers/edit_custom_walker.php:246
+msgid "Remove"
+msgstr ""
+
+#: inc/helpers/edit_custom_walker.php:247
+msgid "Cancel"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:14
+msgid "Page Layout"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:21
+msgid "Layout"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:24
+msgid "Sets layout for pages"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:29
+msgid "Without Sidebar - Fullwide"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:34 inc/helpers/theme-options.php:142
+#: inc/helpers/theme-options.php:1104 inc/helpers/theme-options.php:1129
+msgid "Sidebar Right"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:39 inc/helpers/theme-options.php:147
+#: inc/helpers/theme-options.php:1109 inc/helpers/theme-options.php:1134
+msgid "Sidebar Left"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:45
+msgid "Primary Sidebar"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:49
+msgid "Overrides the default sidebar for this page."
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:56
+msgid "Post Options"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:63
+msgid "Video URL"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:65
+msgid "Paste iframe embed code to YouTube or Vimeo video."
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:71
+msgid "Choose images for Gallery Post"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:82
+msgid "Page Options"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:89
+msgid "Page Class"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:90
+msgid "Enter a class to use for custom CSS styling of this page."
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:96
+msgid "Page Header"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:102
+msgid "Page Title Alignment"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:104 inc/helpers/theme-options.php:1066
+msgid "Choose the alignment for the page title."
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:110 inc/helpers/theme-options.php:1073
+msgid "Left"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:114 inc/helpers/theme-options.php:1077
+msgid "Center"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:119
+msgid "Page Header Type"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:121 inc/helpers/theme-options.php:1014
+msgid "Choose a page header type."
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:127 inc/helpers/meta-boxes.php:144
+#: inc/helpers/theme-options.php:1021 inc/helpers/theme-options.php:1039
+msgid "Standard Page Header"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:131 inc/helpers/theme-options.php:1025
+msgid "Background Page Header"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:136
+msgid "Page Header Style"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:138 inc/helpers/theme-options.php:1032
+msgid "Choose a page header style."
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:148 inc/helpers/theme-options.php:1043
+msgid "Transparent Page Header"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:154 inc/helpers/theme-options.php:1049
+msgid "Page Header Overlay Color"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:155 inc/helpers/theme-options.php:1050
+msgid "Choose an overlay color for the page header background."
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:161 inc/helpers/theme-options.php:1057
+msgid "Page Header Background Image"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:162 inc/helpers/theme-options.php:1058
+msgid "Choose an image for the page header."
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:167
+msgid "Header Revolution Slider"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:169
+msgid ""
+"Adds a Revolution Slider to the header of the page or sets a fullscreen "
+"slider for the homepage."
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:175
+msgid "Choose your Revolution Slider."
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:180
+msgid "Page Breadcrumb"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:191
+msgid "Team Member Options"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:199 inc/helpers/meta-boxes.php:429
+msgid "Position"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:200
+msgid "Enter a job title."
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:207
+msgid "Team Member Bio"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:208
+msgid ""
+"Enter a short bio for the team member. This will be shown on the team member "
+"list page only."
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:215
+msgid "Team Member Social Network List"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:216
+msgid "Enter a title and profile link for each team member social network."
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:222
+msgid "Link URL"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:223
+msgid "Enter the link to the social profile."
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:232
+msgid "Team Member Details List"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:233
+msgid "Enter a title and description for each team member detail."
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:240
+msgid "Enter a description for this item."
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:252
+msgid "Service Options"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:260
+msgid "Service Description"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:261
+msgid ""
+"Enter a short description of this service. This will be shown on the service "
+"grid page only."
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:271
+msgid "Gallery Options"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:279
+msgid "Choose images for gallery"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:286
+msgid "Gallery Type"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:292
+msgid "Image Slider"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:296
+msgid "Image Carousel"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:300
+msgid "Justified Gallery"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:304
+msgid "2 Column Tile Gallery"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:308
+msgid "3 Column Tile Gallery"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:312
+msgid "4 Column Tile Gallery"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:316
+msgid "Video Gallery"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:320
+msgid "Filter Category Gallery"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:325
+msgid "Image Captions"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:335
+msgid "Video Gallery Options"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:343
+msgid "Video List"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:344
+msgid "Enter a YouTube/Vimeo link and a thumbnail for each image."
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:350
+msgid "Video Thumbnail"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:362
+msgid "Category Filter Gallery Options"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:370
+msgid "Image List"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:371
+msgid "Select each of your images and their categories."
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:377
+msgid "Gallery Image"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:384
+msgid "Gallery Image Categories"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:394
+msgid "Brands Options"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:402
+msgid "Brand External Link"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:403
+msgid "Enter a link for the brand image"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:413
+msgid "Testimonial Information"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:421
+msgid "Name"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:422
+msgid "Enter the name of the person giving testimony."
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:430
+msgid "Enter the position of the person giving testimony."
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:437
+msgid "Testimonial Text"
+msgstr ""
+
+#: inc/helpers/meta-boxes.php:438
+msgid "Enter the testimony."
+msgstr ""
+
+#: inc/helpers/template-tags.php:27
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#: inc/helpers/template-tags.php:30
+#, php-format
+msgctxt "post author"
+msgid "<i class=\"fa fa-user\"></i>  %s"
+msgstr ""
+
+#: inc/helpers/template-tags.php:50
+#, php-format
+msgid "Tags: %1$s"
+msgstr ""
+
+#: inc/helpers/template-tags.php:56
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/helpers/template-tags.php:56 template-parts/content-gallery.php:69
+#: template-parts/content-video.php:67 template-parts/content.php:52
+msgid "1 Comment"
+msgstr ""
+
+#: inc/helpers/template-tags.php:56 template-parts/content-gallery.php:69
+#: template-parts/content-video.php:67 template-parts/content.php:52
+msgid "% Comments"
+msgstr ""
+
+#: inc/helpers/template-tags.php:63 template-parts/content-page.php:32
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: inc/helpers/theme-options.php:37
+msgid " General"
+msgstr ""
+
+#: inc/helpers/theme-options.php:41
+msgid " Header"
+msgstr ""
+
+#: inc/helpers/theme-options.php:45
+msgid " Styling"
+msgstr ""
+
+#: inc/helpers/theme-options.php:49
+msgid " Typography"
+msgstr ""
+
+#: inc/helpers/theme-options.php:53
+msgid " Contacts & Social"
+msgstr ""
+
+#: inc/helpers/theme-options.php:57
+msgid " Shop"
+msgstr ""
+
+#: inc/helpers/theme-options.php:61
+msgid " Footer"
+msgstr ""
+
+#: inc/helpers/theme-options.php:65
+msgid " Blog"
+msgstr ""
+
+#: inc/helpers/theme-options.php:69
+msgid " Sidebars"
+msgstr ""
+
+#: inc/helpers/theme-options.php:73
+msgid " 404"
+msgstr ""
+
+#: inc/helpers/theme-options.php:83
+msgid "Favicon"
+msgstr ""
+
+#: inc/helpers/theme-options.php:84
+msgid "Choose site favicon"
+msgstr ""
+
+#: inc/helpers/theme-options.php:98
+msgid "Retina Favicon (Optional)"
+msgstr ""
+
+#: inc/helpers/theme-options.php:99
+msgid ""
+"Choose site favicon for retina displays. Should have @2x at the end of the "
+"filename. e.g. favicon@2x.png"
+msgstr ""
+
+#: inc/helpers/theme-options.php:114
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/helpers/theme-options.php:129
+msgid "Default Site Layout"
+msgstr ""
+
+#: inc/helpers/theme-options.php:130
+msgid "Choose a global site layout "
+msgstr ""
+
+#: inc/helpers/theme-options.php:137 inc/helpers/theme-options.php:1099
+#: inc/helpers/theme-options.php:1124
+msgid "Full Width"
+msgstr ""
+
+#: inc/helpers/theme-options.php:154
+msgid "Site Layout Style"
+msgstr ""
+
+#: inc/helpers/theme-options.php:155
+msgid "Choose the type of site layout style."
+msgstr ""
+
+#: inc/helpers/theme-options.php:162
+msgid "Wide"
+msgstr ""
+
+#: inc/helpers/theme-options.php:166
+msgid "Boxed"
+msgstr ""
+
+#: inc/helpers/theme-options.php:173
+msgid "Back to Top"
+msgstr ""
+
+#: inc/helpers/theme-options.php:174
+msgid "Turn on/off back to top button."
+msgstr ""
+
+#: inc/helpers/theme-options.php:181
+msgid "Enable Retina Support"
+msgstr ""
+
+#: inc/helpers/theme-options.php:182
+msgid ""
+"Turn on/off Retina Support.</br> This will automatically create an image "
+"that is twice\n"
+"                         the size of the original to display on retina "
+"devices. In cases where the image is not generated\n"
+"                         you can manually create the image and upload it "
+"with <strong>@2x</strong> after the filename.\n"
+"                         </br>E.g. Original Image: <strong>my-image.jpg</"
+"strong> Retina Image: <strong>my-image@2x.jpg</strong>"
+msgstr ""
+
+#: inc/helpers/theme-options.php:192
+msgid "One Page Support"
+msgstr ""
+
+#: inc/helpers/theme-options.php:193
+msgid "Turn on/off one page menu support."
+msgstr ""
+
+#: inc/helpers/theme-options.php:200
+msgid "Services Slug"
+msgstr ""
+
+#: inc/helpers/theme-options.php:201
+msgid "Enter a unique name for the services slug."
+msgstr ""
+
+#: inc/helpers/theme-options.php:202
+msgid "service"
+msgstr ""
+
+#: inc/helpers/theme-options.php:215
+msgid "Team Members Slug"
+msgstr ""
+
+#: inc/helpers/theme-options.php:216
+msgid "Enter a unique name for the team members slug."
+msgstr ""
+
+#: inc/helpers/theme-options.php:217
+msgid "team"
+msgstr ""
+
+#: inc/helpers/theme-options.php:235
+msgid "Logo"
+msgstr ""
+
+#: inc/helpers/theme-options.php:236
+msgid "Choose an image for the site logo."
+msgstr ""
+
+#: inc/helpers/theme-options.php:250
+msgid "Retina Logo (Optional)"
+msgstr ""
+
+#: inc/helpers/theme-options.php:251
+msgid ""
+"Choose an image for the site logo on retina displays. Should have @2x at the "
+"end of the filename. \n"
+"                        e.g. If the default logo name is my_logo.png then "
+"the retina logo name should be my_logo@2x.png."
+msgstr ""
+
+#: inc/helpers/theme-options.php:267
+msgid "Sticky Logo"
+msgstr ""
+
+#: inc/helpers/theme-options.php:268
+msgid "Choose an image for the site logo on the sticky header."
+msgstr ""
+
+#: inc/helpers/theme-options.php:282
+msgid "Retina Sticky Logo (Optional)"
+msgstr ""
+
+#: inc/helpers/theme-options.php:283
+msgid ""
+"Choose an image for the site logo on the sticky header for retina displays. "
+"Should have @2x at the end of the filename. \n"
+"                              e.g. If the default logo name is my_logo.png "
+"then the retina logo name should be my_logo@2x.png."
+msgstr ""
+
+#: inc/helpers/theme-options.php:298
+msgid "Archive & Search Header Image"
+msgstr ""
+
+#: inc/helpers/theme-options.php:299
+msgid "Choose a header image for archive and search pages"
+msgstr ""
+
+#: inc/helpers/theme-options.php:306
+msgid "Sticky Navigation"
+msgstr ""
+
+#: inc/helpers/theme-options.php:307
+msgid "Turn on/off the sticky navigation for the main menu."
+msgstr ""
+
+#: inc/helpers/theme-options.php:314
+msgid "Logo Custom Sizing"
+msgstr ""
+
+#: inc/helpers/theme-options.php:315
+msgid "Turn on/off logo custom sizing."
+msgstr ""
+
+#: inc/helpers/theme-options.php:322
+msgid "Logo Height"
+msgstr ""
+
+#: inc/helpers/theme-options.php:323
+msgid "Adjusts logo height"
+msgstr ""
+
+#: inc/helpers/theme-options.php:331
+msgid "Logo Margin"
+msgstr ""
+
+#: inc/helpers/theme-options.php:332
+msgid "Adjusts logo margin"
+msgstr ""
+
+#: inc/helpers/theme-options.php:340
+msgid "Mobile Logo Margin"
+msgstr ""
+
+#: inc/helpers/theme-options.php:341
+msgid "Adjusts mobile logo margin"
+msgstr ""
+
+#: inc/helpers/theme-options.php:349
+msgid "Header Type"
+msgstr ""
+
+#: inc/helpers/theme-options.php:350
+msgid "Choose a header type for the site."
+msgstr ""
+
+#: inc/helpers/theme-options.php:357
+msgid "Header One"
+msgstr ""
+
+#: inc/helpers/theme-options.php:362
+msgid "Header Two"
+msgstr ""
+
+#: inc/helpers/theme-options.php:367
+msgid "Header Three"
+msgstr ""
+
+#: inc/helpers/theme-options.php:372
+msgid "Header Four"
+msgstr ""
+
+#: inc/helpers/theme-options.php:377
+msgid "Header Five"
+msgstr ""
+
+#: inc/helpers/theme-options.php:382
+msgid "Header Six"
+msgstr ""
+
+#: inc/helpers/theme-options.php:389
+msgid "Top Header"
+msgstr ""
+
+#: inc/helpers/theme-options.php:390
+msgid "Turn on/off the top header."
+msgstr ""
+
+#: inc/helpers/theme-options.php:397
+msgid "Top Header Information"
+msgstr ""
+
+#: inc/helpers/theme-options.php:398
+msgid "Click Add New to add information to the top header area."
+msgstr ""
+
+#: inc/helpers/theme-options.php:405
+msgid "Top Header Left Column 1"
+msgstr ""
+
+#: inc/helpers/theme-options.php:406 inc/helpers/theme-options.php:447
+#: inc/helpers/theme-options.php:488
+msgid "Choose a contact detail to display in the left side of the top header."
+msgstr ""
+
+#: inc/helpers/theme-options.php:413 inc/helpers/theme-options.php:454
+#: inc/helpers/theme-options.php:495
+msgid "Phone Number"
+msgstr ""
+
+#: inc/helpers/theme-options.php:417 inc/helpers/theme-options.php:458
+#: inc/helpers/theme-options.php:499
+msgid "Email"
+msgstr ""
+
+#: inc/helpers/theme-options.php:421 inc/helpers/theme-options.php:462
+#: inc/helpers/theme-options.php:503
+msgid "Address"
+msgstr ""
+
+#: inc/helpers/theme-options.php:429 inc/helpers/theme-options.php:470
+#: inc/helpers/theme-options.php:511
+msgid "Book Appointment Link"
+msgstr ""
+
+#: inc/helpers/theme-options.php:433 inc/helpers/theme-options.php:474
+#: inc/helpers/theme-options.php:515 inc/helpers/theme-options.php:555
+#: inc/helpers/theme-options.php:1224
+msgid "None"
+msgstr ""
+
+#: inc/helpers/theme-options.php:439
+msgid "Top Header Left Column 2 Detail"
+msgstr ""
+
+#: inc/helpers/theme-options.php:440
+msgid "Enter contact detail. "
+msgstr ""
+
+#: inc/helpers/theme-options.php:446
+msgid "Top Header Left Column 2"
+msgstr ""
+
+#: inc/helpers/theme-options.php:480
+msgid "Top Header Left Column 3 Detail"
+msgstr ""
+
+#: inc/helpers/theme-options.php:481
+msgid "Enter contact detail."
+msgstr ""
+
+#: inc/helpers/theme-options.php:487
+msgid "Top Header Left Column 3"
+msgstr ""
+
+#: inc/helpers/theme-options.php:521
+msgid "Top Header Left Custom Text"
+msgstr ""
+
+#: inc/helpers/theme-options.php:522
+msgid "Enter custom text to display instead of columns."
+msgstr ""
+
+#: inc/helpers/theme-options.php:528
+msgid "Top Header Right Custom Text"
+msgstr ""
+
+#: inc/helpers/theme-options.php:529
+msgid "Enter custom text to display in header top right area."
+msgstr ""
+
+#: inc/helpers/theme-options.php:535
+msgid "Top Header Right"
+msgstr ""
+
+#: inc/helpers/theme-options.php:536
+msgid "Choose what to display in the right side of the top header."
+msgstr ""
+
+#: inc/helpers/theme-options.php:543
+msgid "Social Icons"
+msgstr ""
+
+#: inc/helpers/theme-options.php:547
+msgid "Menu"
+msgstr ""
+
+#: inc/helpers/theme-options.php:551
+msgid "Custom Text"
+msgstr ""
+
+#: inc/helpers/theme-options.php:566
+msgid "General Styling"
+msgstr ""
+
+#: inc/helpers/theme-options.php:573
+msgid "Color Scheme"
+msgstr ""
+
+#: inc/helpers/theme-options.php:574
+msgid "Choose your own color scheme using the color picker."
+msgstr ""
+
+#: inc/helpers/theme-options.php:581
+msgid "Site Background/Color (Boxed Mode)"
+msgstr ""
+
+#: inc/helpers/theme-options.php:582
+msgid "Choose a background or color for the site when in boxed mode."
+msgstr ""
+
+#: inc/helpers/theme-options.php:590
+msgid "Add Custom CSS"
+msgstr ""
+
+#: inc/helpers/theme-options.php:591
+msgid "Add your custom CSS here"
+msgstr ""
+
+#: inc/helpers/theme-options.php:597
+msgid "Header Styling"
+msgstr ""
+
+#: inc/helpers/theme-options.php:603
+msgid "Top Header Background Color"
+msgstr ""
+
+#: inc/helpers/theme-options.php:604
+msgid "Choose a color for the background of the top header."
+msgstr ""
+
+#: inc/helpers/theme-options.php:611
+msgid "Top Header Text Color"
+msgstr ""
+
+#: inc/helpers/theme-options.php:612
+msgid "Choose a color for the text in the top header."
+msgstr ""
+
+#: inc/helpers/theme-options.php:619
+msgid "Top Header Icon Color"
+msgstr ""
+
+#: inc/helpers/theme-options.php:620
+msgid "Choose a color for the icons in the top header."
+msgstr ""
+
+#: inc/helpers/theme-options.php:627
+msgid "Main Navigation Links Color"
+msgstr ""
+
+#: inc/helpers/theme-options.php:628
+msgid "Choose a color for links in the main navigation."
+msgstr ""
+
+#: inc/helpers/theme-options.php:635
+msgid "Main Navigation Dropdown Links Color"
+msgstr ""
+
+#: inc/helpers/theme-options.php:636
+msgid "Choose a color for dropdown links in the main navigation."
+msgstr ""
+
+#: inc/helpers/theme-options.php:643
+msgid "Main Navigation Background Color"
+msgstr ""
+
+#: inc/helpers/theme-options.php:644
+msgid "Choose a color for the background of the main navigation."
+msgstr ""
+
+#: inc/helpers/theme-options.php:651
+msgid "Header Area Background Color"
+msgstr ""
+
+#: inc/helpers/theme-options.php:652
+msgid "Choose a color for the background of the header area."
+msgstr ""
+
+#: inc/helpers/theme-options.php:659
+msgid "Header Contact Icons Color"
+msgstr ""
+
+#: inc/helpers/theme-options.php:660
+msgid "Choose a color for the header contact icons."
+msgstr ""
+
+#: inc/helpers/theme-options.php:667
+msgid "Header Contact Description Color"
+msgstr ""
+
+#: inc/helpers/theme-options.php:668
+msgid "Choose a color for the header contact description."
+msgstr ""
+
+#: inc/helpers/theme-options.php:675
+msgid "Header Contact Title Color"
+msgstr ""
+
+#: inc/helpers/theme-options.php:676
+msgid "Choose a color for the header contact titles."
+msgstr ""
+
+#: inc/helpers/theme-options.php:683
+msgid "Mega Menu Background/Color"
+msgstr ""
+
+#: inc/helpers/theme-options.php:684
+msgid "Choose a background or color for the mega menu."
+msgstr ""
+
+#: inc/helpers/theme-options.php:691
+msgid "Sticky Header Links Color"
+msgstr ""
+
+#: inc/helpers/theme-options.php:692
+msgid "Choose a color for links in the sticky header."
+msgstr ""
+
+#: inc/helpers/theme-options.php:699
+msgid "Sticky Header Dropdown Links Color"
+msgstr ""
+
+#: inc/helpers/theme-options.php:700
+msgid "Choose a color for dropdown links in the sticky header."
+msgstr ""
+
+#: inc/helpers/theme-options.php:707
+msgid "Sticky Header Background Color"
+msgstr ""
+
+#: inc/helpers/theme-options.php:708
+msgid "Choose a color for the background of the sticky header."
+msgstr ""
+
+#: inc/helpers/theme-options.php:715
+msgid "Footer Styling"
+msgstr ""
+
+#: inc/helpers/theme-options.php:723
+msgid "Footer Widget Area Background/Color"
+msgstr ""
+
+#: inc/helpers/theme-options.php:724
+msgid "Choose a background or color for the footer widget area."
+msgstr ""
+
+#: inc/helpers/theme-options.php:731
+msgid "Footer Widget Area Text Color"
+msgstr ""
+
+#: inc/helpers/theme-options.php:732
+msgid "Choose a color for the text in the footer widget area."
+msgstr ""
+
+#: inc/helpers/theme-options.php:739
+msgid "Bottom Footer Text Color"
+msgstr ""
+
+#: inc/helpers/theme-options.php:740
+msgid "Choose a color for the text in the bottom footer."
+msgstr ""
+
+#: inc/helpers/theme-options.php:747
+msgid "Bottom Footer Background Color"
+msgstr ""
+
+#: inc/helpers/theme-options.php:748
+msgid "Choose a background color for the bottom footer."
+msgstr ""
+
+#: inc/helpers/theme-options.php:760
+msgid "Add Google Fonts"
+msgstr ""
+
+#: inc/helpers/theme-options.php:761
+msgid ""
+"Add the Google Fonts you wish to use in the theme here and click Save "
+"Changes to register them. \n"
+"                              Then use the options below to add them to "
+"different sections of the theme."
+msgstr ""
+
+#: inc/helpers/theme-options.php:776
+msgid "Body Font"
+msgstr ""
+
+#: inc/helpers/theme-options.php:795
+msgid "Main Navigation Font"
+msgstr ""
+
+#: inc/helpers/theme-options.php:814
+msgid "H1 Font"
+msgstr ""
+
+#: inc/helpers/theme-options.php:833
+msgid "H2 Font"
+msgstr ""
+
+#: inc/helpers/theme-options.php:852
+msgid "H3 Font"
+msgstr ""
+
+#: inc/helpers/theme-options.php:871
+msgid "H4 Font"
+msgstr ""
+
+#: inc/helpers/theme-options.php:890
+msgid "H5 Font"
+msgstr ""
+
+#: inc/helpers/theme-options.php:909
+msgid "H6 Font"
+msgstr ""
+
+#: inc/helpers/theme-options.php:932
+msgid "Social Networks"
+msgstr ""
+
+#: inc/helpers/theme-options.php:933
+msgid ""
+"Add your social networks by clicking Add New then enter the social network "
+"title (eg- Facebook, Twitter, Instagram) and then enter the link to your "
+"profile."
+msgstr ""
+
+#: inc/helpers/theme-options.php:940
+msgid "Link url"
+msgstr ""
+
+#: inc/helpers/theme-options.php:949
+msgid "Telephone Number"
+msgstr ""
+
+#: inc/helpers/theme-options.php:950
+msgid "Enter telephone number."
+msgstr ""
+
+#: inc/helpers/theme-options.php:957
+msgid "Enter opening hours."
+msgstr ""
+
+#: inc/helpers/theme-options.php:963
+msgid "Book Appointment Title"
+msgstr ""
+
+#: inc/helpers/theme-options.php:964 inc/helpers/theme-options.php:972
+msgid "Enter book appointment text."
+msgstr ""
+
+#: inc/helpers/theme-options.php:965
+msgid "Book Appointment"
+msgstr ""
+
+#: inc/helpers/theme-options.php:971
+msgid "Book Appointment Sub-title"
+msgstr ""
+
+#: inc/helpers/theme-options.php:973
+msgid "Your perfect smile is a click away!"
+msgstr ""
+
+#: inc/helpers/theme-options.php:979
+msgid "Book Appointment Page"
+msgstr ""
+
+#: inc/helpers/theme-options.php:980
+msgid "Choose appointment page."
+msgstr ""
+
+#: inc/helpers/theme-options.php:986
+msgid "Call Us Text"
+msgstr ""
+
+#: inc/helpers/theme-options.php:987
+msgid "Enter text for call us."
+msgstr ""
+
+#: inc/helpers/theme-options.php:988
+msgid "Call Us"
+msgstr ""
+
+#: inc/helpers/theme-options.php:994
+msgid "Opening Hours Text"
+msgstr ""
+
+#: inc/helpers/theme-options.php:995
+msgid "Enter text for opening hours."
+msgstr ""
+
+#: inc/helpers/theme-options.php:1005
+msgid "Shop Page Header"
+msgstr ""
+
+#: inc/helpers/theme-options.php:1006
+msgid "Turn on/off shop page header."
+msgstr ""
+
+#: inc/helpers/theme-options.php:1012
+msgid "Shop Header Type"
+msgstr ""
+
+#: inc/helpers/theme-options.php:1030
+msgid "Shop Page Header Style"
+msgstr ""
+
+#: inc/helpers/theme-options.php:1064
+msgid "Shop Page Title Alignment"
+msgstr ""
+
+#: inc/helpers/theme-options.php:1083
+msgid "Shop Page Breadcrumb"
+msgstr ""
+
+#: inc/helpers/theme-options.php:1084
+msgid "Turn on/off Breadcrumb on Shop pages."
+msgstr ""
+
+#: inc/helpers/theme-options.php:1091
+msgid "Shop Page Layout"
+msgstr ""
+
+#: inc/helpers/theme-options.php:1092
+msgid "Choose a layout for the shop page."
+msgstr ""
+
+#: inc/helpers/theme-options.php:1116
+msgid "Single Product Layout"
+msgstr ""
+
+#: inc/helpers/theme-options.php:1117
+msgid "Choose a layout for single product pages."
+msgstr ""
+
+#: inc/helpers/theme-options.php:1142
+msgid "Number of products on shop page."
+msgstr ""
+
+#: inc/helpers/theme-options.php:1144
+msgid "Choose the number of products for shop page."
+msgstr ""
+
+#: inc/helpers/theme-options.php:1151
+msgid "Catalog Mode"
+msgstr ""
+
+#: inc/helpers/theme-options.php:1152
+msgid "Turn on/off catalog mode on shop pages."
+msgstr ""
+
+#: inc/helpers/theme-options.php:1159
+msgid "Cart Icon in Main Menu"
+msgstr ""
+
+#: inc/helpers/theme-options.php:1160
+msgid "Turn on/off the cart icon in the main menu."
+msgstr ""
+
+#: inc/helpers/theme-options.php:1170
+msgid "Footer Widget Area"
+msgstr ""
+
+#: inc/helpers/theme-options.php:1171
+msgid "Turn on/off the footer widget area."
+msgstr ""
+
+#: inc/helpers/theme-options.php:1178
+msgid "Footer Column Layout"
+msgstr ""
+
+#: inc/helpers/theme-options.php:1179
+msgid "Choose a layout for the footer widget area."
+msgstr ""
+
+#: inc/helpers/theme-options.php:1191
+msgid "Two Column"
+msgstr ""
+
+#: inc/helpers/theme-options.php:1196
+msgid "Three Column"
+msgstr ""
+
+#: inc/helpers/theme-options.php:1201
+msgid "Four Column"
+msgstr ""
+
+#: inc/helpers/theme-options.php:1208
+msgid "Footer Menu Type"
+msgstr ""
+
+#: inc/helpers/theme-options.php:1209
+msgid "Choose the type of menu to display in copyright area."
+msgstr ""
+
+#: inc/helpers/theme-options.php:1216
+msgid "Social Menu"
+msgstr ""
+
+#: inc/helpers/theme-options.php:1220
+msgid "Navigation Menu"
+msgstr ""
+
+#: inc/helpers/theme-options.php:1234
+msgid "Featured Image on Single Posts"
+msgstr ""
+
+#: inc/helpers/theme-options.php:1235
+msgid "Turn on/off Featured images in Single Posts."
+msgstr ""
+
+#: inc/helpers/theme-options.php:1243
+msgid "Read More Button on Blog"
+msgstr ""
+
+#: inc/helpers/theme-options.php:1244
+msgid "Turn on/off the Read More button on the blog page."
+msgstr ""
+
+#: inc/helpers/theme-options.php:1252
+msgid "Number of words in posts excerpt"
+msgstr ""
+
+#: inc/helpers/theme-options.php:1254
+msgid "Choose number of words in post excerpts on main page."
+msgstr ""
+
+#: inc/helpers/theme-options.php:1262
+msgid "Post length"
+msgstr ""
+
+#: inc/helpers/theme-options.php:1263
+msgid "Choose the length for posts on blog page"
+msgstr ""
+
+#: inc/helpers/theme-options.php:1270
+msgid "Excerpts"
+msgstr ""
+
+#: inc/helpers/theme-options.php:1274
+msgid "Full Content"
+msgstr ""
+
+#: inc/helpers/theme-options.php:1281
+msgid "Navigation below single posts"
+msgstr ""
+
+#: inc/helpers/theme-options.php:1282
+msgid "Turn on/off the navigation below single posts."
+msgstr ""
+
+#: inc/helpers/theme-options.php:1289
+msgid "Posts Meta Info"
+msgstr ""
+
+#: inc/helpers/theme-options.php:1290
+msgid "Turn on/off the post meta information above posts."
+msgstr ""
+
+#: inc/helpers/theme-options.php:1297
+msgid "Share Bar"
+msgstr ""
+
+#: inc/helpers/theme-options.php:1298
+msgid "Turn on/off the share bar below posts."
+msgstr ""
+
+#: inc/helpers/theme-options.php:1306
+msgid "Related Posts below articles"
+msgstr ""
+
+#: inc/helpers/theme-options.php:1307
+msgid "Turn on/off the related posts box below articles."
+msgstr ""
+
+#: inc/helpers/theme-options.php:1315
+msgid "Author box below posts"
+msgstr ""
+
+#: inc/helpers/theme-options.php:1316
+msgid "Turn on/off the author box found a post."
+msgstr ""
+
+#: inc/helpers/theme-options.php:1326
+msgid "Create Sidebars"
+msgstr ""
+
+#: inc/helpers/theme-options.php:1327
+msgid "Enter a name and short description for your new sidebar."
+msgstr ""
+
+#: inc/helpers/theme-options.php:1334
+msgid "Sidebar Description"
+msgstr ""
+
+#: inc/helpers/theme-options.php:1341
+msgid "Sidebar ID"
+msgstr ""
+
+#: inc/helpers/theme-options.php:1342
+msgid "Each sidebar must have a unique id."
+msgstr ""
+
+#: inc/helpers/theme-options.php:1354
+msgid "404 Page Title"
+msgstr ""
+
+#: inc/helpers/theme-options.php:1355
+msgid "Ttitle to show on 404 page."
+msgstr ""
+
+#: inc/helpers/theme-options.php:1369
+msgid "404 Page Text"
+msgstr ""
+
+#: inc/helpers/theme-options.php:1370
+msgid "Text to show on 404 page."
+msgstr ""
+
+#: inc/parts/author_box_archive_part.php:36 inc/parts/author_box_part.php:36
+msgid "Facebook"
+msgstr ""
+
+#: inc/parts/author_box_archive_part.php:41 inc/parts/author_box_part.php:41
+msgid "Twitter"
+msgstr ""
+
+#: inc/parts/author_box_archive_part.php:46 inc/parts/author_box_part.php:46
+msgid "Dribble"
+msgstr ""
+
+#: inc/parts/author_box_archive_part.php:51 inc/parts/author_box_part.php:51
+msgid "Github"
+msgstr ""
+
+#: inc/parts/author_box_archive_part.php:56 inc/parts/author_box_part.php:56
+msgid "Instagram"
+msgstr ""
+
+#: inc/parts/author_box_archive_part.php:61 inc/parts/author_box_part.php:61
+msgid "Linkedin"
+msgstr ""
+
+#: inc/parts/author_box_archive_part.php:66 inc/parts/author_box_part.php:66
+msgid "Pinterest"
+msgstr ""
+
+#: inc/parts/author_box_archive_part.php:71 inc/parts/author_box_part.php:71
+msgid "Skype"
+msgstr ""
+
+#: inc/parts/author_box_archive_part.php:76 inc/parts/author_box_part.php:76
+msgid "Soundcloud"
+msgstr ""
+
+#: inc/parts/author_box_archive_part.php:81 inc/parts/author_box_part.php:81
+msgid "Youtube"
+msgstr ""
+
+#: inc/parts/author_box_archive_part.php:86 inc/parts/author_box_part.php:86
+msgid "Tumblr"
+msgstr ""
+
+#: inc/parts/author_box_archive_part.php:91 inc/parts/author_box_part.php:91
+msgid "Vimeo"
+msgstr ""
+
+#: inc/parts/author_box_archive_part.php:96 inc/parts/author_box_part.php:96
+msgid "Flickr"
+msgstr ""
+
+#: inc/parts/author_box_archive_part.php:101 inc/parts/author_box_part.php:101
+msgid "Google+"
+msgstr ""
+
+#: inc/parts/author_box_archive_part.php:106 inc/parts/author_box_part.php:106
+msgid "Foursquare"
+msgstr ""
+
+#: inc/parts/header-five-part.php:39 inc/parts/header-four-part.php:81
+#: inc/parts/header-one-part.php:39 inc/parts/header-six-part.php:37
+#: inc/parts/header-sticky-part.php:37 inc/parts/header-three-part.php:78
+#: inc/parts/header-two-part.php:45
+msgid "Toggle navigation"
+msgstr ""
+
+#: inc/parts/page-title-part.php:83
+msgid "Search Results"
+msgstr ""
+
+#: inc/parts/page-title-part.php:88
+msgid "Author: "
+msgstr ""
+
+#: inc/parts/related_box_part.php:32
+msgid "Related Articles"
+msgstr ""
+
+#: inc/parts/share_bar_part.php:11
+msgid "SHARE THIS POST"
+msgstr ""
+
+#: inc/parts/share_bar_part.php:21
+msgid "Share on Facebook"
+msgstr ""
+
+#: inc/parts/share_bar_part.php:22
+msgid "Share on Twitter"
+msgstr ""
+
+#: inc/parts/share_bar_part.php:23
+msgid "Share on Google+"
+msgstr ""
+
+#: inc/parts/share_bar_part.php:24
+msgid "Share on Linkedin"
+msgstr ""
+
+#: inc/parts/share_bar_part.php:25
+msgid "Share on Pinterest"
+msgstr ""
+
+#: inc/parts/share_bar_part.php:26
+msgid "Share on Stumbleupon"
+msgstr ""
+
+#: inc/parts/share_bar_part.php:27
+msgid "Share on Tumblr"
+msgstr ""
+
+#: inc/parts/share_bar_part.php:28
+msgid "Mail to Friend"
+msgstr ""
+
+#: inc/widgets/widget_company_info.php:17
+msgid "Displays company info."
+msgstr ""
+
+#: inc/widgets/widget_company_info.php:19
+msgid "Dental Care: Company Info"
+msgstr ""
+
+#: inc/widgets/widget_company_info.php:51
+msgid "Contact Us"
+msgstr ""
+
+#: inc/widgets/widget_company_info.php:91
+msgid "Title: "
+msgstr ""
+
+#: inc/widgets/widget_company_info.php:96
+msgid "Address: "
+msgstr ""
+
+#: inc/widgets/widget_company_info.php:102
+msgid "Phone: "
+msgstr ""
+
+#: inc/widgets/widget_company_info.php:109
+msgid "Fax: "
+msgstr ""
+
+#: inc/widgets/widget_company_info.php:115
+msgid "Email: "
+msgstr ""
+
+#: inc/widgets/widget_opening_hours.php:17
+msgid "Displays the office opening hours."
+msgstr ""
+
+#: inc/widgets/widget_opening_hours.php:19
+msgid "Dental Care: Opening Hours"
+msgstr ""
+
+#: inc/widgets/widget_opening_hours.php:126
+#: inc/widgets/widget_recent_posts.php:87 inc/widgets/widget_social.php:90
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/widget_opening_hours.php:132
+msgid "Monday:"
+msgstr ""
+
+#: inc/widgets/widget_opening_hours.php:140
+msgid "Tuesday:"
+msgstr ""
+
+#: inc/widgets/widget_opening_hours.php:148
+msgid "Wednesday:"
+msgstr ""
+
+#: inc/widgets/widget_opening_hours.php:156
+msgid "Thursday:"
+msgstr ""
+
+#: inc/widgets/widget_opening_hours.php:164
+msgid "Friday:"
+msgstr ""
+
+#: inc/widgets/widget_opening_hours.php:172
+msgid "Saturday:"
+msgstr ""
+
+#: inc/widgets/widget_opening_hours.php:180
+msgid "Sunday:"
+msgstr ""
+
+#: inc/widgets/widget_recent_posts.php:17
+msgid "Displays the recent posts."
+msgstr ""
+
+#: inc/widgets/widget_recent_posts.php:19
+msgid "Dental Care: Recent Posts"
+msgstr ""
+
+#: inc/widgets/widget_recent_posts.php:93
+msgid "Filter Posts by Category:"
+msgstr ""
+
+#: inc/widgets/widget_recent_posts.php:95
+msgid "All categories"
+msgstr ""
+
+#: inc/widgets/widget_recent_posts.php:106
+msgid "Number of posts to show:"
+msgstr ""
+
+#: inc/widgets/widget_social.php:17
+msgid "Displays social links."
+msgstr ""
+
+#: inc/widgets/widget_social.php:19
+msgid "Dental Care: Social"
+msgstr ""
+
+#: inc/widgets/widget_social.php:96
+msgid "Facebook:"
+msgstr ""
+
+#: inc/widgets/widget_social.php:100
+msgid "Twitter:"
+msgstr ""
+
+#: inc/widgets/widget_social.php:104
+msgid "Google+:"
+msgstr ""
+
+#: inc/widgets/widget_social.php:109
+msgid "Instagram:"
+msgstr ""
+
+#: inc/widgets/widget_social.php:114
+msgid "LinkedIn:"
+msgstr ""
+
+#: inc/widgets/widget_social.php:119
+msgid "Vimeo:"
+msgstr ""
+
+#: inc/widgets/widget_social.php:124
+msgid "Youtube:"
+msgstr ""
+
+#: inc/widgets/widget_social.php:129
+msgid "Tumblr:"
+msgstr ""
+
+#: inc/widgets/widget_social.php:134
+msgid "Flickr:"
+msgstr ""
+
+#: inc/widgets/widget_social.php:139
+msgid "Pinterest:"
+msgstr ""
+
+#: template-parts/content-gallery.php:39 template-parts/content-video.php:39
+#: template-parts/content.php:23
+msgid "Read "
+msgstr ""
+
+#: template-parts/content-gallery.php:64 template-parts/content-single.php:70
+#: template-parts/content-video.php:62 template-parts/content.php:47
+#, php-format
+msgid "in: %1$s"
+msgstr ""
+
+#: template-parts/content-gallery.php:69 template-parts/content-video.php:67
+#: template-parts/content.php:52
+msgid "Leave a reply "
+msgstr ""
+
+#: template-parts/content-gallery.php:86 template-parts/content-video.php:84
+#: template-parts/content.php:69
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: template-parts/content-gallery.php:93 template-parts/content-page.php:21
+#: template-parts/content-single.php:80 template-parts/content-video.php:91
+#: template-parts/content.php:76
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-gallery.php:104 template-parts/content-video.php:38
+#: template-parts/content-video.php:102 template-parts/content.php:87
+msgid "Read Article"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-search.php:21
+msgid "Type:"
+msgstr ""
+
+#: woocommerce/content-product.php:39
+msgid "Out of Stock"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:28
+msgid "Showing the single result"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:30
+#, php-format
+msgid "Showing all %d results"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:32
+#, php-format
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr ""
